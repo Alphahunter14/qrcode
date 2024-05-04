@@ -56,4 +56,3 @@ def generate_qr_code(data):
 
 if __name__ == '__main__':
     app.run(debug=True)
-    
